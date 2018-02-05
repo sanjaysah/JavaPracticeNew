@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class primeNo {
 
 	public static void main(String[] args) {
-		
+		//THis is my Second Commit
+		//Practicing commint and push upstream options
 		Scanner scanner = new Scanner(System.in);
 		long input = scanner.nextLong();
 //		String line = scanner.nextLine();
