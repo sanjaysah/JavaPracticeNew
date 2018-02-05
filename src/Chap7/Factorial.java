@@ -1,7 +1,7 @@
 package Chap7;
 
 public class Factorial {
-	
+	//my fourth commit, practicing multiple changes push at one go
 	int fact(int n){
 		int result;
 		

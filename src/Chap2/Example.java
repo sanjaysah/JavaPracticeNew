@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 
 public class Example implements Comparable<Integer>{
 		public static void main(String args[]){
+			//my fourth commit, practicing multiple changes push at one go
 			System.out.println("This is a sample java program.");
 			int[] array ={1,2,3,4,5,6};
 		
